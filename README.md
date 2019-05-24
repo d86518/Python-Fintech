@@ -1,5 +1,5 @@
 # Python-Fintech
-Coding with financial issues. 
+
 **KD**
 * 策略1：RSV
 * 策略2.1：KD，20G作多，80D平倉 
@@ -13,7 +13,7 @@ Coding with financial issues.
 
 **停損停利**
 * 策略1.0
-  開盤買進一口，30點停損，收盤平倉
+  * 開盤買進一口，30點停損，收盤平倉
 * 策略1.1
   開盤買空一口，30點停損，收盤平倉
 * 策略2.0
